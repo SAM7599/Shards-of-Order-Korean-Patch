@@ -57,9 +57,9 @@ Steam\steamapps\common\ShardsOfOrder\ShardsOfOrder
 
 교체 대상:
 
-ShardsOfOrder_Data\sharedassets0.assets
-ShardsOfOrder_Data\sharedassets4.assets
-ShardsOfOrder_Data\StreamingAssets\aa\StandaloneWindows64\localization-string-tables-chinese(simplified)(zh-hans)_assets_all.bundle
+- ShardsOfOrder_Data\sharedassets0.assets
+- ShardsOfOrder_Data\sharedassets4.assets
+- ShardsOfOrder_Data\StreamingAssets\aa\StandaloneWindows64\localization-string-tables-chinese(simplified)(zh-hans)_assets_all.bundle
 
 주의: 글꼴 이미지 데이터도 함께 적용되어야 하므로 단순 파일 복사만으로는 정상 표시되지 않을 수 있습니다.
 수동 설치가 필요한 경우에도 `SOO_KoreanPatch.ps1`을 직접 실행하는 방식을 권장합니다.
