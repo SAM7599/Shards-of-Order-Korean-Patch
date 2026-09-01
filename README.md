@@ -1,4 +1,4 @@
-# Shards of Order 비공식 한국어 패치
+# Shards of Order 비공식 한국어 패치 (기계번역)
 
 `Shards of Order`를 한국어로 플레이할 수 있도록 만든 비공식 한국어 패치입니다.
 
